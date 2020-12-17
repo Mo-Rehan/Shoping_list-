@@ -1,0 +1,101 @@
+
+#index-head{
+    
+    padding: 5%;
+    background-color: #002546;   
+}
+body{
+    background-color: aliceblue;
+}
+
+#title{
+    text-align: center;
+    color: rgb(168, 214, 253);
+    font-size: 65px;
+    font-family: Helvetica, sans-serif
+}
+#nav{
+    text-align: right;
+    margin: 0;
+    list-style-type: none;
+    
+}
+.button {
+    background-color: #5ff1fc; /* Green */
+    border: none;
+    color:#002546;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #001a53;
+    text-align: center;
+    height: 5em;
+    width: 10em;
+    
+    margin-bottom: 2em;
+    font-size: 50px;
+    font-family: Comic Sans MS, Comic Sans, cursive ;
+    font-style: italic;
+    
+  }
+  .button1:hover {
+    background-color: #05b5e0;
+    color: white;
+  }
+  #container{
+      width: 80%;
+      margin: auto;
+
+  }
+ blockquote{
+     text-align: center;
+      font-size: 40px;
+      font-family: Comic Sans MS, Comic Sans, cursive ;
+  }
+img{
+    float:right;
+    border-radius: 25px;
+ }
+ #para{
+     font-size: 28px;
+     font-family: Comic Sans MS, Comic Sans, cursive;
+ }
+ footer{
+     padding: 1%;
+     text-align: center;
+     background-color: #0045817c;
+     height: 3em;
+ }
+ #buttonbelow{
+     text-align: center;
+     border-radius: 25px;
+ }
+ #marker{
+     text-align: center;
+     font-size: 28px;
+     font-family: Comic Sans MS, Comic Sans, cursive;
+
+ }
+ .key{
+     font-family: 'Courier New', Courier, monospace;
+     font-size: 30px;
+     inline-size: auto;
+ }
+ #prem{
+     margin-left: 5.4em;
+ }
+ #abt{
+     text-align: center;
+     margin-top:6em;
+
+ }
